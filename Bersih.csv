@@ -1,0 +1,499 @@
+Kota,Kota_Edited,Usia (tahun),Usia_Edited,Jenis Kelamin,Tinggi Badan (dalam cm),Tinggi_Badan_Edited,Berat Badan (dalam kg),Berat_Badan_Edited,Kecepatan Bersepeda,Jenis Permukaan Jalan (yang paling sering dilalui),Jenis Sepeda (yang paling sering digunakan),Tujuan Bersepeda (secara singkat)
+madiun,Madiun,45,45,Pria,165,165,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),olah raga
+Pekalongan,Pekalongan,50,50,Pria,166,166,80,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),Menggerakkan badan ( olah raga) dalam jarak dekat 1 s.d  5 KM
+Surabaya,Surabaya,43,43,Pria,178,178,73,73,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Kesehatan
+Surabaya,Surabaya,40,40,Wanita,165,165,53,53,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),berolahraga
+surabaya,Surabaya,32,32,Wanita,155,155,68,68,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),mengusir bosan 
+Surabaya,Surabaya,41,41,Pria,167,167,59,59,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Hobby
+Surabaya,Surabaya,33,33,Pria,184,184,75,75,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Sehat
+Surabaya,Surabaya,48,48,Pria,179cm,179,78kg,78,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Kesehatan
+Surabaya,Surabaya,38,38,Wanita,155,155,50,50,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),"Olahraga, kumpul teman"
+Surabaya,Surabaya,50,50,Pria,173,173,83,83,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Biar sehat
+Surabaya,Surabaya,53,53,Pria,183,183,80,80,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),sehat n imun kuat
+Surabaya,Surabaya,44,44,Wanita,158,158,50,50,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Supaya sehat
+Surabaya,Surabaya,47,47,Pria,170,170,79,79,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),Olah raga
+Surabaya,Surabaya,36,36,Pria,167,167,74,74,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Untuk sehat
+Surabaya,Surabaya,49,49,Pria,165,165,68,68,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Utk olah raga
+Surabaya,Surabaya,38,38,Pria,159,159,90,90,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Olah raga dan alat transportasi sekitar komplek rumah
+Surabaya,Surabaya,28,28,Wanita,159,159,50,50,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),Menikmati pemandangan (alam)
+Surabaya,Surabaya,35,35,Pria,174,174,70,70,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Olahraga keluar keringat dan kesehatan
+Surabaya,Surabaya,31,31,Pria,165,165,85,85,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Mencari angin dan keringat
+Surabaya,Surabaya,33,33,Pria,179,179,65,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),supaya sehat
+Surabaya,Surabaya,45,45,Pria,170,170,70,70,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Healthy and Fun ??
+Surabaya ,Surabaya ,45,45,Pria,174,174,80,80,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Biar sehat
+Surabaya,Surabaya,44,44,Pria,173,173,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),"Biar tetap langsing, ga merasa bersalah kalo makan banyak."
+Surabaya,Surabaya,32,32,Pria,168,168,74,74,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Olahraga
+Surabaya,Surabaya,40,40,Pria,170,170,64,64,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Cari sehat
+Surabaya,Surabaya,35,35,Pria,175,175,68,68,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Biar tidak positif Covid
+Sidoarjo,Sidoarjo,39,39,Pria,170,170,58,58,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Kesehatan
+Surabaya,Surabaya,21,21,Pria,176,176,70,70,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),untuk menjadi lebih kuat
+Surabaya,Surabaya,40,40,Pria,180,180,80,80,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Sehat 
+Surabaya,Surabaya,49,49,Pria,181,181,82,82,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Nggergaji suged...eh utk kesehatan
+Surabaya,Surabaya,44,44,Pria,169,169,65,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Olah raga
+Bandung,Bandung,37,37,Pria,176,176,60,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Olahraga dan rekreasi
+BANDUNG,Bandung,31,31,Pria,183,183,82,82,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Buat sehat
+Pekalongan,Pekalongan,28,28,Pria,168,168,65,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Ingin sehat
+Bandung,Bandung,32,32,Pria,167,167,82,82,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),olahraga
+Bandung,Bandung,53,53,Pria,174,174,74,74,Cepat (26 km/jam atau lebih),Jalanan Tidak Rata,Sepeda Balap (Road Bike),Healthy n Happy 
+Bandung,Bandung,48,48,Pria,175,175,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Sehat dan rekreasi
+Bandung,Bandung,40,40,Pria,169,169,72,72,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Olahraga
+bekasi,Bekasi,50,50,Pria,170,170,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),olahraga
+Bandung,Bandung,56,56,Pria,172,172,83,83,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Jaga kesehatan
+Surabaya,Surabaya,46,46,Pria,171,171,65,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),olah raga
+Pekalongan ,Pekalongan ,39,39,Pria,170,170,69,69,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Menjaga stamina tubuh 
+Pekalongan,Pekalongan,47,47,Wanita,168,168,75,75,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),Olah raga
+Batang,Batang,60,60,Pria,161,161,62,62,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Balap (Road Bike),"Refreshing, olah raga"
+Pekalongan,Pekalongan,50 tahun,50,Pria,160 cm,160,60 kg,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Utk kesehatan 
+Pekalongan,Pekalongan,17 th,17,Pria,167 cm,167,65 kg,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Pekalongan,Pekalongan,16 thn,16,Pria,168 cm,168,65 kg,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Pekalongan,Pekalongan,17 thn,17,Pria,167 cm,167,65 kg,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Kesehatan dan preatasi
+Pekalongan,Pekalongan,19 thn,19,Pria,160 cm,160,60 kg,60,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Kesehatan dan preatasi
+Pekalongan,Pekalongan,17 th,17,Wanita,160 cm,160,65 kg,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Kesehatan dan berprestasi
+SURABAYA,Surabaya,58,58,Pria,176,176,75,75,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Sehat n kumpul2 dgn teman2
+Pekalongan,Pekalongan,55,55,Pria,170,170,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Biar sehat
+Pekalongan,Pekalongan,57 th,57,Pria,170 ccm,170,66 kg,66,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),suka dan refresing
+Surabaya,Surabaya,40,40,Pria,160,160,58,58,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Oalah raga
+Surabaya,Surabaya,47,47,Pria,165,165,64,64,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),olah raga
+Jember,Jember,37,37,Pria,180,180,99,99,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Sehat dan kurus
+Surabaya,Surabaya,41,41,Wanita,162cm,162,67 kg,67,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Olahraga dan fun
+Surabaya,Surabaya,44 thn,44,Pria,170,170,73,73,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Supaya sehat dan waktu bersama putra saya.
+Surabaya,Surabaya,40,40,Wanita,154,154,56,56,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),Supaya sehat & ada komunitas
+Surabaya,Surabaya,23,23,Pria,172,172,68,68,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),Balapan bersama sesama group
+Surabaya,Surabaya,39,39,Pria,166,166,85,85,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,57,57,Pria,175,175,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,49,49,Wanita,161,161,57,57,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,78,78,Pria,173,173,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,23,23,Pria,164,164,95,95,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,53,53,Pria,170,170,64,64,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,44,44,Wanita,168,168,58,58,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,56,56,Wanita,168,168,55,55,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,20,20,Pria,154,154,58,58,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,47,47,Pria,170,170,91,91,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,27,27,Pria,163,163,63,63,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,44,44,Pria,170,170,76,76,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,38,38,Wanita,165,165,54,54,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,54,54,Pria,161,161,87,87,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,35,35,Pria,162,162,76,76,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,55,55,Wanita,154,154,52,52,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,41,41,Wanita,153,153,54,54,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,39,39,Pria,168,168,64,64,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,32,32,Wanita,154,154,53,53,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,21,21,Pria,161,161,65,65,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,30,30,Wanita,154,154,60,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,29,29,Pria,175,175,92,92,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,49,49,Pria,161,161,68,68,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,41,41,Pria,165,165,78,78,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,27,27,Pria,178,178,73,73,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,22,22,Pria,177,177,77,77,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,41,41,Pria,168,168,70,70,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,30,30,Pria,167,167,68,68,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,39,39,Pria,170,170,72,72,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,22,22,Pria,173,173,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,53,53,Pria,180,180,88,88,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,25,25,Pria,166,166,87,87,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,59,59,Wanita,165,165,55,55,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,59,59,Pria,174,174,81,81,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,37,37,Pria,171,171,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,34,34,Pria,163,163,78,78,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,48,48,Pria,180,180,63,63,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,40,40,Pria,180,180,78,78,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,27,27,Pria,180,180,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,22,22,Pria,165,165,69,69,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,51,51,Pria,180,180,69,69,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,24,24,Pria,163,163,61,61,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,26,26,Wanita,159,159,53,53,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,56,56,Pria,178,178,99,99,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,49,49,Pria,174,174,82,82,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,22,22,Pria,173,173,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,28,28,Pria,162,162,83,83,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,32,32,Pria,176,176,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,46,46,Pria,172,172,83,83,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,28,28,Pria,178,178,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,31,31,Pria,185,185,91,91,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,52,52,Pria,174,174,88,88,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,56,56,Pria,179,179,80,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,59,59,Pria,176,176,83,83,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,60,60,Pria,188,188,98,98,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,52,52,Wanita,155,155,56,56,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,58,58,Pria,162,162,63,63,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,54,54,Pria,172,172,74,74,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,21,21,Wanita,154,154,41,41,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,56,56,Pria,180,180,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,48,48,Pria,172,172,75,75,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,11,11,Pria,166,166,44,44,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,48,48,Pria,172,172,74,74,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,38,38,Pria,177,177,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,58,58,Wanita,148,148,56,56,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,53,53,Pria,174,174,83,83,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,54,54,Pria,165,165,73,73,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,42,42,Pria,170,170,63,63,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,56,56,Wanita,164,164,53,53,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,14,14,Pria,174,174,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,35,35,Pria,162,162,61,61,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,34,34,Pria,174,174,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,27,27,Pria,162,162,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,46,46,Pria,184,184,96,96,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,22,22,Pria,188,188,77,77,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,39,39,Pria,161,161,84,84,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,27,27,Pria,188,188,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,38,38,Pria,188,188,77,77,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,40,40,Pria,162,162,71,71,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,31,31,Pria,179,179,77,77,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Balap (Road Bike),
+Surabaya,Surabaya,18,18,Pria,172,172,64,64,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Pekalongan,Pekalongan,35,35,Pria,170,170,73,73,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah Raga
+Indramayu,Indramayu,53,53,Wanita,157,157,90,90,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),jalan-jalan santai
+Pekalongan,Pekalongan,53,53,Pria,165,165,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Jaga stamina tubuh
+Cirebon,Cirebon,42,42,Pria,165,165,60,60,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olah Raga
+Pekalongan,Pekalongan,42 tahun,42,Pria,169,169,80,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga
+Bogor,Bogor,46,46,Pria,168,168,90,90,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),"Santai, olah raga"
+Pati,Pati,40,40,Pria,167,167,68,68,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Kesehatan dan pertemanan
+Semarang,Semarang,46,46,Pria,178,178,94,94,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),"Olah raga, jaga kesehatan."
+Pekalongan,Pekalongan,28,28,Pria,168,168,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Berolah raga
+Pekalongan,Pekalongan,53,53,Pria,169,169,74,74,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),"Sehat,refresing,byk saudara"
+Pekalongan,Pekalongan,40,40,Pria,165,165,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk menjaga kesehatan dan refresing
+Pekalongan,Pekalongan,41,41,Pria,165,165,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),cari sehat
+Pekalongan,Pekalongan,34,34,Pria,181,181,88,88,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Hiburan dan bersilaturahmi 
+Pekalongan,Pekalongan,48,48,Pria,165,165,69,69,Cepat (26 km/jam atau lebih),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga kebugaran tubuh
+Pekalongan,Pekalongan,58 tahun,58,Pria,172 cm,172,82kg,82,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga kebugaran 
+Semarang,Semarang,45,45,Pria,172,172,99,99,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Iseng
+Pekalongan,Pekalongan,47,47,Pria,170,170,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk menjaga stamina agar tubuh sehat
+Pekalongan,Pekalongan,40 Tahun,40,Pria,158,158,63 kg,63,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga dan  Refresing
+Pekalongan,Pekalongan,44 th,44,Pria,165,165,65,65,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Cirebon,Cirebon,42,42,Pria,171,171,84,84,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),kesehatan
+Pekalongan,Pekalongan,32,32,Pria,165,165,60,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),cari keringat
+Surabaya,Surabaya,22,22,Pria,167,167,95,95,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Surabaya,Surabaya,25,25,Pria,167,167,85,85,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olaharaga atau untuk menghilangkan penat
+Surabaya,Surabaya,48,48,Wanita,160,160,60,60,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Santai
+jombang,Jombang,24,24,Pria,164,164,68,68,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),diajak teman
+Samarinda,Samarinda,34,34,Pria,176,176,86,86,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Surabaya,Surabaya,48,48,Pria,178,178,74,74,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Bakar kalori
+Surabaya,Surabaya,30,30,Pria,170,170,90,90,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Berolahraga tapi kena PPKM level max
+Surabaya,Surabaya,33,33,Pria,175,175,75,75,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),mencari pasangan hidup
+Surabaya,Surabaya,37,37,Pria,180,180,85,85,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),"mencari keringat, olahraga santai"
+Surabaya,Surabaya,28,28,Pria,176,176,65,65,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Keliling santai
+Surabaya,Surabaya,33,33,Wanita,167,167,63,63,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga dan transportasi
+Pekalongan,Pekalongan,19,19,Pria,178,178,93,93,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),"Sebagai hobby, sekaligus olahraga utk membakar kalori dalam tubuh"
+BATANG,Batang,22 tahun,22,Wanita,152 cm,152,43 kg,43,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk meningkatkan daya tahan otot 
+Comal,Comal,19,19,Wanita,155,155,40,40,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Berolahraga
+Batang ,Batang ,20,20,Pria,159,159,65,65,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Agar badan sehat 
+Pekalongan,Pekalongan,18,18,Wanita,160,160,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Tidak ada transportasi lain
+Pekalongan,Pekalongan,20,20,Pria,170,170,57,57,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),"Refresing, hobi mengisi hari libur dan kumpul bareng komunitas. "
+Surabaya,Surabaya,40 thn,40,Wanita,165 cm,165,56 kg,56,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Berolahraga untuk menjaga kesehatan
+Pekalongan,Pekalongan,52 tahun,52,Pria,160 cm,160,55 kg,55,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga fisik tetap bugar
+Madura,Madura,30 tahun,30,Pria,180cm,180,78kg,78,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Bersenang senang dan untuk menguji ketahanan fisik (strength)
+Pekalongan,Pekalongan,54,54,Pria,155,155,50,50,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),menjaga kesehatan
+Pekalongan,Pekalongan,39,39,Pria,170,170,65,65,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga & refresing
+Surabaya,Surabaya,37 jalan,37,Pria,172,172,78,78,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),"Happy foto2, makan enak, tidur enak"
+Surabaya,Surabaya,40,40,Pria,175,175,80,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Main dengan anak
+Pekalongan,Pekalongan,20,20,Wanita,155,155,52,52,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga dan mengisi waktu luang
+Pekalongan,Pekalongan,19,19,Wanita,158,158,49,49,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Surabaya,Surabaya,28,28,Pria,165,165,78,78,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Batang,Batang,32,32,Pria,164,164,55,55,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Berolahraga
+Pekalongan,Pekalongan,50,50,Pria,170,170,85,85,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menggembirakan diri sendiri
+Pekalongan,Pekalongan,18 tahun 8 bulan,18,Wanita,154,154,32,32,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),"Refreshing, olahraga"
+Pekalongan,Pekalongan,52,52,Pria,155,155,65,65,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Cari keringat sambil nambah wawasan
+Pekalongan,Pekalongan,55,55,Wanita,155,155,49,49,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Agar badan sehat
+Samarinda,Samarinda,35,35,Pria,172,172,85,85,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Hobi
+SAMARINDA,Samarinda,48,48,Pria,172,172,74,74,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga buat kesehatan
+Samarinda,Samarinda,34,34,Pria,165,165,77,77,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),berolahraga
+Tangerang,Tangerang,58,58,Pria,170,170,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga
+Samarinda,Samarinda,50,50,Pria,171,171,55,55,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah Raga dan cari spot Foto
+samarinda,Samarinda,40,40,Pria,165,165,57,57,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),untuk menjaga kesehatan sekaligus refresing cuci mata melihat pemandangan
+Surabaya,Surabaya,44,44,Wanita,159,159,52,52,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),untuk olahraga bersama keluarga
+Pekalongan,Pekalongan,18,18,Wanita,155,155,45,45,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),"Menjaga kesehatan paru paru, menyalurkan hobi, dan bersosialisasi dengan orang seperhobian"
+Pekalongan,Pekalongan,19,19,Wanita,154,154,42,42,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),olahraga dan keliling kota
+Surabaya,Surabaya,43,43,Pria,175,175,80,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Bersantai dan berolah raga
+Surabaya,Surabaya,36,36,Pria,171,171,60,60,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Surabaya,Surabaya,29,29,Pria,165,165,75,75,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Balikpapan,Balikpapan,40,40,Pria,173,173,56,56,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk kesehatan dan hobi
+Balikpapan,Balikpapan,40,40,Pria,175,175,78,78,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Cari keringat
+Samarinda,Samarinda,40,40,Pria,169,169,95,95,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Buat kesehatan
+Tangerang,Tangerang,32,32,Wanita,163,163,65,65,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Supaya langsing ??
+Bandung,Bandung,34,34,Pria,165,165,67,67,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Nyari keringat 
+Bandung,Bandung,36,36,Pria,171,171,73,73,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk Olahraga dan hobby 
+Pekalongan,Pekalongan,19,19,Wanita,162,162,52,52,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),"refreshing, bonus sehat"
+PEKALONGAN,Pekalongan,38,38,Pria,167,167,65,65,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Bandung,Bandung,39,39,Pria,156,156,57,57,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Hobi dan Kesehatan 
+Bandung,Bandung,63,63,Pria,165,165,74,74,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga dan refreshing
+Bandung,Bandung,41,41,Pria,165,165,67,67,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Bike to work
+Pekalongan,Pekalongan,32,32,Pria,166,166,78,78,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga
+Bandung,Bandung,35,35,Pria,173,173,98,98,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Biar sehat 
+Bogor,Bogor,33,33,Pria,169,169,63,63,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Refreshing dan Olahraga mingguan
+Pekalongan,Pekalongan,47,47,Pria,178,178,73,73,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Jaga kesehatan plus cardio
+Pekalongan,Pekalongan,56 tahun,56,Pria,165 cm,165,59 kg,59,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk kesehatan badan
+Surabaya,Surabaya,45,45,Wanita,160,160,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga 
+Surabaya,Surabaya,54,54,Pria,179,179,60,60,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Kesehatan
+Malang,Malang,32,32,Wanita,153,153,99,99,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),cari sehat ??
+Surabaya,Surabaya,34,34,Wanita,163,163,62,62,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Pekalongan ,Pekalongan ,42,42,Pria,181,181,74,74,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Keluar dari rumah dan bersenang-senang.
+Pekalongan,Pekalongan,41,41,Pria,173,173,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Sehat
+PEKALONGAN,Pekalongan,55,55,Pria,163,163,71,71,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),kesehatan
+Pekalongan,Pekalongan,27,27,Pria,165,165,85,85,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menurunkan berat badan dan mencegah asma kambuh
+Pekalongan,Pekalongan,21,21,Pria,168,168,60,60,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga n refreshing
+Pekalongan,Pekalongan,54 th,54,Pria,168 cm,168,65 kg,65,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),"Bugar, sehat byk teman n daerah baru"
+Pekalongan,Pekalongan,53,53,Pria,167,167,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah Raga
+Malang,Malang,44,44,Wanita,160,160,49,49,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Pekalongan,Pekalongan,41,41,Pria,168,168,71,71,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk Kesehatan dan refresing
+Pekalongan,Pekalongan,35,35,Pria,167,167,60,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Sehat bugar
+Bandung,Bandung,47,47,Pria,170,170,62,62,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Supaya sehat
+Pekalongan,Pekalongan,46 thn,46,Pria,170cm,170,65kg,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),untk olahraga dan rekreasi
+pekalongan,Pekalongan,39,39,Pria,166,166,45,45,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),tombo mumet
+Pekalongan ,Pekalongan ,40,40,Pria,170,170,71,71,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga kebugaran dan refreshing 
+Bandung,Bandung,32,32,Pria,167,167,48,48,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Transportasi sehari hari
+Pekalongan,Pekalongan,45,45,Wanita,159,159,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Sehat... refreshing...silaturahmi ma temen..Lihat daerah baru yg gak mgkn sy tuju kl naik motor atau mobil
+Pekalongan,Pekalongan,57,57,Pria,165,165,67,67,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga stamina agar tetap bugar
+Pekalongan,Pekalongan,40,40,Pria,165,165,80,80,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga kebugaran tubuh
+Pekalongan,Pekalongan,1971 / 50 tahun,19,Pria,173,173,78,78,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Berolahraga
+Pekalongan,Pekalongan,61 thn,61,Pria,172,172,65,65,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga sambil rekreasi
+Pekalongan.,Pekalongan.,53th.,53,Pria,168cm.,168,60kg.,60,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Memperlancar peredaran darah.
+Pekalongan,Pekalongan,37,37,Pria,168,168,68,68,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Biar Sehat sama cari teman 
+Padang,Padang,42 th,42,Pria,167,167,58,58,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga
+Pekalongan,Pekalongan,30,30,Pria,155,155,55,55,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Sarapan
+Pekalongan,Pekalongan,40,40,Pria,165,165,70,70,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Pekalongan ,Pekalongan ,33,33,Pria,173,173,86,86,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Kuliner
+Purwokerto,Purwokerto,47 tahun,47,Pria,174,174,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga
+Pekalongan,Pekalongan,40,40,Pria,165,165,78,78,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Kurang lebih perjln 50km pp
+PEKALONGAN,Pekalongan,50 TAHUN,50,Pria,172,172,84,84,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah Raga dan Refresing
+Pekalongan,Pekalongan,31,31,Pria,165,165,55,55,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga dan refreshing
+Pekalongan,Pekalongan,43,43,Pria,170,170,60,60,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Buat olah raga
+Batang,Batang,44 th,44,Pria,161,161,65,65,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),"Olahraga, refreshing, adrenaline."
+Pekalongan,Pekalongan,42,42,Pria,168,168,85,85,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Berolahraga & berekreasi
+Batang,Batang,48,48,Pria,168,168,60,60,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Sehat banyak teman
+Pekalongan,Pekalongan,45,45,Pria,165,165,70kg,70,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),"Sporting, touring, adventure, Refreshing..."
+Pekalongan,Pekalongan,33,33,Pria,165,165,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga wisata
+Pekalongan,Pekalongan,47,47,Pria,160 cm,160,67,67,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Kesehatan jasmani dan rohani
+Pekalongan,Pekalongan,50 th,50,Pria,158,158,65,65,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Sport . Fun . Sosialized
+Pekalongan,Pekalongan,52 thn,52,Pria,165 cm,165,75 kg,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk menjaga kesehatan biar badan kita tetap sehat.
+Pekalongan,Pekalongan,54 tahun,54,Pria,170,170,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),benhil kramat batang
+Pekalongan,Pekalongan,41,41,Pria,165,165,60,60,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga.berpetualanng
+Pekalongan,Pekalongan,31,31,Pria,167,167,82,82,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Ingin melihat perbukitan sambil berolah raga
+Pekalongan,Pekalongan,60 th,60,Pria,161,161,65 kg,65,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Sekedar olah raga
+Pekalongan,Pekalongan,40an,40,Pria,170,170,70kg,70,Cepat (26 km/jam atau lebih),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Hoby is... N adventur forever
+Pekalongan,Pekalongan,41,41,Pria,160,160,50,50,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Hobi olahraga saja
+Purbalingga,Purbalingga,41,41,Pria,167,167,50,50,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Hobby dan olahraga
+Pekalongan,Pekalongan,54,54,Pria,167,167,60,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),olah raga
+Pekalongan,Pekalongan,47th,47,Wanita,152,152,52,52,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Hiburan 
+Pekalongan,Pekalongan,47 tahun,47,Pria,170,170,70,70,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),sport + refreshing
+Pekalongan,Pekalongan,31,31,Pria,170,170,69,69,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Karna hobi bersepeda dari kecil
+Batang,Batang,71 Th,71,Pria,150 cm,150,45 kg,45,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),"Untuk : menjaga kesehatan, rekreasi & silaturahmi"
+Pekalongan ,Pekalongan ,49,49,Wanita,158,158,50,50,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga 
+Pekalongan,Pekalongan,39,39,Pria,170,170,72,72,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Hobby dan olahraga
+Bandung,Bandung,37,37,Pria,174,174,85,85,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Wisata
+Pekalongan,Pekalongan,39,39,Pria,165,165,50,50,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga Kesehatan
+Batang,Batang,45,45,Pria,165,165,69,69,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga
+pekalongan,Pekalongan,40,40,Pria,163,163,55,55,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),timbang pak opo
+Surabaya,Surabaya,24,24,Pria,178,178,63,63,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga
+Pekalongan ,Pekalongan ,43,43,Pria,170,170,79,79,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Hapoy
+Pekalongan,Pekalongan,55 th,55,Pria,158 cm,158,60 kg,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Hobi
+Kudus,Kudus,32,32,Pria,168,168,73,73,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Hobi dan olahraga
+Pekalongan ,Pekalongan ,47,47,Pria,167,167,65,65,Cepat (26 km/jam atau lebih),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Untuk kesehatan badan
+Pekalongan,Pekalongan,59,59,Pria,175,175,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga 
+Pekalongan,Pekalongan,46,46,Pria,168,168,73,73,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga dan hiburan
+purwokerto,Purwokerto,47,47,Pria,172,172,99,99,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),jaga sehat
+Wonosobo,Wonosobo,49,49,Pria,165,165,80,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Jaga kondisi kesehatan
+Pekalongan ,Pekalongan ,43,43,Pria,155,155,48,48,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga keseimbangan
+Pekongan,Pekongan,40,40,Pria,173,173,74,74,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Membakar lemak
+Purwokerto,Purwokerto,48,48,Pria,178,178,72,72,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga
+Sukoharjo,Sukoharjo,39,39,Pria,155,155,65,65,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Menjaga kesehatan
+Pekalongan,Pekalongan,36,36,Pria,180,180,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga dan hobi
+Pekalongan,Pekalongan,32 tahun,32,Pria,172,172,57,57,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Sehat
+Pekalongan,Pekalongan,58 th,58,Pria,172 cm,172,85 kg,85,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),"Menjaga kebugaran, biar tetap sehat"
+Pekalongan,Pekalongan,70 tahun,70,Pria,168 cm,168,68 kg,68,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Berolahraga sambil menikmati pemandangan alam.
+Pekalongan,Pekalongan,44,44,Pria,165,165,65,65,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Agar sehat
+bandung,Bandung,30,30,Pria,171,171,73,73,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),olahraga
+Pekalongan,Pekalongan,34,34,Pria,162,162,60,60,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Pekalongan,Pekalongan,50,50,Pria,170,170,85,85,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Menghibur diri dan kejenuhan
+Bandung,Bandung,51,51,Pria,165,165,61,61,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Happy dan Fun
+Surabaya,Surabaya,36,36,Wanita,150,150,66,66,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Cardio
+Bandung,Bandung,51,51,Pria,171,171,84,84,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olah raga dan menikmati alam pegunungan
+Pekalongan,Pekalongan,50th,50,Pria,170cm62,170,62th,62,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Sehat bayak temen wisata alam
+SURABAYA,Surabaya,42,42,Wanita,153,153,70,70,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),FOR FUN 
+Pekalongan,Pekalongan,27,27,Pria,167,167,65,65,Cepat (26 km/jam atau lebih),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga
+Surabaya,Surabaya,31,31,Pria,175,175,69,69,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Olahraga ringan
+Surabaya,Surabaya,52,52,Pria,173,173,78,78,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Goes
+Wonosobo,Wonosobo,49,49,Pria,165,165,80,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Jaga kebugaran
+Pekalongan,Pekalongan,62 th,62,Pria,166 cm,166,80 kg,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Utk kesehatan dan hobby
+Pekalongan,Pekalongan,32,32,Pria,173,173,94,94,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),Jaga kesehatan
+Surabaya,Surabaya,57,57,Pria,177,177,77,77,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,52,52,Pria,164,164,51,51,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,54,54,Pria,180,180,88,88,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,21,21,Pria,169,169,74,74,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,58,58,Pria,177,177,95,95,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,27,27,Wanita,157,157,66,66,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,27,27,Pria,164,164,87,87,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,32,32,Wanita,159,159,56,56,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,55,55,Wanita,158,158,55,55,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,24,24,Pria,151,151,64,64,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,11,11,Pria,161,161,57,57,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,60,60,Wanita,167,167,48,48,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,36,36,Wanita,160,160,62,62,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,44,44,Pria,174,174,99,99,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,37,37,Wanita,161,161,66,66,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,47,47,Pria,168,168,54,54,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,57,57,Pria,162,162,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,72,72,Wanita,170,170,58,58,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,68,68,Pria,163,163,77,77,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,32,32,Pria,153,153,69,69,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,36,36,Pria,164,164,62,62,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,24,24,Pria,178,178,90,90,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,24,24,Wanita,151,151,56,56,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,38,38,Pria,159,159,83,83,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,22,22,Pria,163,163,56,56,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,27,27,Pria,172,172,82,82,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,34,34,Pria,168,168,79,79,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,57,57,Pria,169,169,79,79,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,19,19,Pria,166,166,86,86,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,46,46,Pria,169,169,61,61,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,43,43,Wanita,164,164,61,61,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,24,24,Wanita,151,151,52,52,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,58,58,Pria,163,163,82,82,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,60,60,Pria,175,175,72,72,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,58,58,Pria,163,163,53,53,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,39,39,Wanita,170,170,42,42,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,25,25,Wanita,168,168,58,58,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,40,40,Pria,168,168,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,10,10,Pria,169,169,59,59,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,56,56,Pria,166,166,82,82,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,57,57,Wanita,150,150,50,50,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,42,42,Pria,149,149,87,87,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,58,58,Pria,181,181,93,93,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,51,51,Pria,180,180,73,73,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,30,30,Pria,170,170,67,67,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,29,29,Pria,166,166,62,62,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,42,42,Pria,171,171,73,73,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,46,46,Wanita,169,169,66,66,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,52,52,Wanita,152,152,60,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,37,37,Pria,175,175,81,81,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,33,33,Pria,170,170,87,87,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,46,46,Pria,180,180,66,66,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,41,41,Pria,163,163,63,63,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,16,16,Pria,162,162,64,64,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,15,15,Pria,185,185,59,59,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,31,31,Pria,161,161,67,67,Cepat (26 km/jam atau lebih),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,43,43,Pria,156,156,67,67,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,36,36,Wanita,152,152,77,77,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,49,49,Pria,161,161,67,67,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,17,17,Pria,171,171,67,67,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,42,42,Pria,190,190,95,95,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,57,57,Wanita,167,167,74,74,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,21,21,Pria,173,173,86,86,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,57,57,Pria,166,166,88,88,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,48,48,Pria,175,175,71,71,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,50,50,Wanita,156,156,55,55,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,49,49,Pria,164,164,64,64,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,59,59,Pria,170,170,73,73,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,60,60,Pria,161,161,79,79,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,29,29,Wanita,161,161,64,64,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,28,28,Wanita,164,164,51,51,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,37,37,Pria,165,165,75,75,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,52,52,Pria,165,165,59,59,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,49,49,Wanita,160,160,60,60,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,32,32,Pria,176,176,89,89,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,33,33,Pria,171,171,88,88,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,22,22,Pria,169,169,68,68,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,53,53,Wanita,155,155,58,58,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,60,60,Pria,163,163,86,86,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,58,58,Pria,171,171,74,74,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,23,23,Wanita,159,159,43,43,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,23,23,Pria,178,178,54,54,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,54,54,Pria,177,177,67,67,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,19,19,Pria,174,174,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,29,29,Pria,172,172,93,93,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,43,43,Wanita,158,158,52,52,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,48,48,Pria,183,183,89,89,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,15,15,Wanita,148,148,38,38,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,29,29,Pria,163,163,85,85,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,65,65,Pria,171,171,67,67,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,38,38,Pria,171,171,84,84,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,52,52,Pria,157,157,63,63,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,23,23,Pria,169,169,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,32,32,Pria,161,161,86,86,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,10,10,Pria,168,168,54,54,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,49,49,Pria,178,178,84,84,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,51,51,Wanita,159,159,60,60,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,22,22,Pria,174,174,91,91,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,39,39,Pria,179,179,93,93,Santai (15 km/jam atau kurang),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,48,48,Wanita,165,165,65,65,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,45,45,Wanita,151,151,44,44,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,22,22,Pria,173,173,99,99,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,48,48,Pria,166,166,74,74,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,50,50,Pria,166,166,80,80,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,22,22,Wanita,168,168,66,66,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,31,31,Wanita,168,168,58,58,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,29,29,Pria,162,162,61,61,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,14,14,Pria,177,177,65,65,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Gunung (Mountain Bike/MTB),
+Surabaya,Surabaya,13,13,Pria,170,170,57,57,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Gunung (Mountain Bike/MTB),
+Pekalongan,Pekalongan,44,44,Pria,171,171,80,80,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),Olahraga kesehatan
+Pekalongan,Pekalongan,35,35,Pria,165,165,70,70,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Olahraga ringan
+Pekalongan ,Pekalongan ,38,38,Wanita,160,160,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),Untuk berolah raga 
+Pekalongan,Pekalongan,39,39,Pria,171,171,75,75,Sedang (16 - 25 km/jam),Jalanan Tidak Rata,Sepeda Lipat (Folding Bike),"Kesehatan, dan refreshing"
+pekalongan,Pekalongan,29,29,Pria,166,166,64,64,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),olaraga
+pekalongan,Pekalongan,42 tahun,42,Pria,166,166,78,78,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),olahraga dan hiburan.
+Surabaya,Surabaya,32,32,Pria,172,172,57,57,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Olahraga pagi
+Surabaya,Surabaya,42,42,Pria,171,171,82,82,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Kekeluargaan
+Jakarta,Jakarta,48,48,Wanita,160,160,58,58,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Rekreasi
+Surabaya,Surabaya,34,34,Pria,181,181,99,99,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Weight loss & socialize with friends
+Ciamis,Ciamis,32,32,Wanita,155,155,56,56,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),Refreshing
+Balikpapan,Balikpapan,43,43,Pria,165,165,74,74,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),happy fun
+Sidoarjo,Sidoarjo,47,47,Wanita,155,155,43,43,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),ke tempat yg dekat
+Bandung,Bandung,53 tahun,53,Wanita,165,165,74,74,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Untuk olahraga dan jalan jalan
+Sidoarjo,Sidoarjo,39,39,Wanita,153,153,52,52,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Olah raga
+Surabaya,Surabaya,33,33,Wanita,164,164,64,64,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),"Refreshing, berjemur sekaligus olahraga cari keringat"
+Jakarta,Jakarta,31,31,Pria,160,160,58,58,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Commuter
+Bandung,Bandung,60,60,Pria,165,165,62,62,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),Refreshing dan Olah Raga 
+Purwokerto,Purwokerto,47,47,Pria,170,170,75,75,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),Olah raga sekalian happy
+Purwokerto,Purwokerto,46,46,Pria,178,178,90,90,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),Hiburan dan kesehatan
+Pekalongan,Pekalongan,45,45,Pria,175,175,80,80,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),biar sehat
+Surabaya,Surabaya,56,56,Wanita,155,155,44,44,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,54,54,Wanita,159,159,58,58,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,49,49,Wanita,160,160,49,49,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,49,49,Wanita,165,165,46,46,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,43,43,Pria,161,161,48,48,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,44,44,Wanita,160,160,47,47,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,45,45,Wanita,163,163,48,48,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,37,37,Pria,161,161,50,50,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,51,51,Wanita,164,164,58,58,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,27,27,Wanita,169,169,48,48,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,16,16,Pria,171,171,63,63,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,13,13,Pria,177,177,70,70,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,45,45,Pria,158,158,47,47,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,25,25,Pria,153,153,44,44,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,39,39,Pria,172,172,62,62,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,43,43,Pria,167,167,64,64,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,10,10,Pria,163,163,46,46,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,59,59,Wanita,151,151,55,55,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,11,11,Pria,157,157,50,50,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,33,33,Pria,162,162,43,43,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,58,58,Wanita,159,159,51,51,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,45,45,Wanita,168,168,65,65,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,48,48,Pria,169,169,70,70,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,58,58,Wanita,153,153,55,55,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,50,50,Wanita,156,156,54,54,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,55,55,Wanita,157,157,59,59,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,24,24,Wanita,152,152,47,47,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,31,31,Pria,163,163,49,49,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,24,24,Wanita,152,152,47,47,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,57,57,Pria,160,160,44,44,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,50,50,Pria,165,165,63,63,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,57,57,Wanita,167,167,63,63,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,45,45,Wanita,151,151,57,57,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,21,21,Wanita,156,156,48,48,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,47,47,Wanita,154,154,53,53,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,54,54,Wanita,156,156,51,51,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,30,30,Pria,159,159,46,46,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,29,29,Wanita,168,168,62,62,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,29,29,Pria,155,155,47,47,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,22,22,Pria,167,167,62,62,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,47,47,Wanita,163,163,70,70,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,37,37,Pria,176,176,70,70,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,28,28,Pria,167,167,46,46,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,55,55,Wanita,154,154,57,57,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,49,49,Pria,161,161,82,82,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,53,53,Pria,168,168,46,46,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,49,49,Pria,154,154,43,43,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,51,51,Pria,159,159,41,41,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,41,41,Pria,156,156,47,47,Santai (15 km/jam atau kurang),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,34,34,Wanita,167,167,51,51,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,39,39,Wanita,167,167,52,52,Cepat (26 km/jam atau lebih),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,45,45,Wanita,169,169,66,66,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
+Surabaya,Surabaya,46,46,Wanita,151,151,57,57,Sedang (16 - 25 km/jam),Jalanan Rata,Sepeda Lipat (Folding Bike),
